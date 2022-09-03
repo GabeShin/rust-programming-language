@@ -1,1 +1,0 @@
-/Users/vc-mac/personal-dev/rust-programming-language/1-getting-started/hello-cargo/target/debug/hello-cargo: /Users/vc-mac/personal-dev/rust-programming-language/1-getting-started/hello-cargo/src/main.rs
