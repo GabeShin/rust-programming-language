@@ -46,7 +46,7 @@ fn main() {
 
     /* Hashing Functions
     - using SipHash
-    - resistant to DoS attack, but not the fastest. \
+    - resistant to DoS attack, but not the fastest.
     - hasher / BuildHasher
     */
 }
